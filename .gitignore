@@ -1,6 +1,6 @@
 *.class
 */.DS_Store
-*/*/.DS_Store
+./src/p1/.DS_Store
 .DS_Store
-*/*/.project
-*/*/.classpath
+./src/p1/.project
+*/src/p1/.classpath
