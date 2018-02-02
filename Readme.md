@@ -1,11 +1,14 @@
+Download:
+Please download the folder "src".
+
+
 Compiling
 
-Enter the path of folder "src":
+1. find the location of folder "src" and use command "cd" to enter "src"
 
-cd src
-
-To compile this, run:
+2. To compile this, run:
 javac p1/BlueDevil.java p1/Person.java p1/PersonManageSystem.java 
+
 
 Running
 
