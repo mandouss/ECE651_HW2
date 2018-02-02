@@ -1,20 +1,25 @@
 Two Ways for Testing:
 
-1. Compiling and Running:
+Way 1:
+
+    Compiling and Running:
      (1) Download PMS.jar
      (2) Enter the location where PMS.jar are downloaded.
      (3) Input:
-	java -jar PMS.jar 
+	        java -jar PMS.jar 
 
-2. Download:
-    Please download the folder "src".
 
-   Compiling:
-     (1) find the location of folder "src" and enter(command cd) into the folder "src".
-	 (2) To compile this, run:
-	 javac p1/BlueDevil.java p1/Person.java p1/PersonManageSystem.java 
-    
-    and Running:
+Way 2:
+ 
+    Download:
+        Please download the folder "src".
+        
+    Compiling:   
+        (1) find the location of folder "src" and enter(command cd) into the folder "src".
+	    (2) To compile this, run:
+	         javac p1/BlueDevil.java p1/Person.java p1/PersonManageSystem.java 
+	
+	and Running:
     	to run this code, use:
 
     	Linux / OSX: 
