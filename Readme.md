@@ -9,13 +9,10 @@ Two Ways for Testing:
 2. Download:
     Please download the folder "src".
 
-
    Compiling:
-     
      (1) find the location of folder "src" and enter(command cd) into the folder "src".
 	 (2) To compile this, run:
 	 javac p1/BlueDevil.java p1/Person.java p1/PersonManageSystem.java 
-    
     
     and Running:
     	to run this code, use:
